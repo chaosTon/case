@@ -1,0 +1,101 @@
+hotel,price,score,avg review,avg review rating,reviews count,,,,,,,,
+Villa Real Playa Nueva Romana,"$4,208 ",9.9,Exceptional,9,28,,,,,,,,
+Hyatt Zilara Cap Cana - Adults Only,"$5,199 ",9.5,Exceptional,9,369,,,,,,,,
+CARIBBEAN Paradise WIFI HOTEL BAVARO Beach CLUB & SPA,$840 ,9.3,Wonderful,8,67,,,,,,,,
+Los Corales CASAS del MAR OCEAN & Garden VIEW HOTEL Bavaro Beach CLUB & SPA,$840 ,9.3,Wonderful,8,31,,,,,,,,
+Ultravioleta Boutique Residences,"$2,142 ",9.2,Wonderful,8,247,,,,,,,,
+Breathless Punta Cana Resort & Spa - Adults Only,"$3,420 ",9.2,Wonderful,8,896,,,,,,,,
+Secrets Cap Cana Resort & Spa - Adults Only,"$4,968 ",9.2,Wonderful,8,226,,,,,,,,
+Los Corales Luxury Villas Beach Club and Spa,$944 ,9.2,Wonderful,8,6,,,avg review rating ,,,,Correlations ,
+Hyatt Ziva Cap Cana,"$4,908 ",9.2,Wonderful,8,398,,,Exceptional,9,,,price,0.383711041
+Hyatt Ziva Cap Cana,"$4,908 ",9.2,Wonderful,8,398,,,Wonderful,8,,,avg review,0.928120987
+Hacienda Samana Bay Hotel,"$1,218 ",9,Wonderful,8,408,,,Excellent,7,,,reviews count ,-0.250921265
+Jewel Palm Beach,"$1,262 ",9,Wonderful,8,31,,,Very Good,6,,,,
+"InterContinental Real Santo Domingo, an IHG Hotel","$1,952 ",9,Wonderful,8,490,,,Good,5,,,,
+"Sanctuary Cap Cana, a Luxury Collection All-Inclusive Resort, Dominican Republic","$3,931 ",9,Wonderful,8,275,,,,,,,,
+"Sanctuary Cap Cana, a Luxury Collection All-Inclusive Resort, Dominican Republic","$3,931 ",9,Wonderful,8,275,,,,,,,,
+Temptation Grand Miches Resort - All Inclusive - Couples Only,"$4,984 ",9,Wonderful,8,36,,,,,,,,
+Hodelpa Gran Almirante,"$1,530 ",8.9,Excellent,7,421,,,,,,,Column1,
+Hilton La Romana All-Inclusive Resort & Water Park Punta Cana,"$3,240 ",8.9,Excellent,7,556,,,,,,,,
+Casas del XVI,"$2,394 ",8.8,Excellent,7,228,,,,,,,Mean,2144.5
+"El Embajador, a Royal Hideaway Hotel","$1,233 ",8.8,Excellent,7,"2,026",,,,,,,Standard Error,129.4103672
+Bahia Principe Grand Cayacoa,"$1,453 ",8.8,Excellent,7,92,,,,,,,Median,1809.5
+JW Marriott Hotel Santo Domingo,"$2,565 ",8.8,Excellent,7,235,,,,,,,Mode,840
+"El Embajador, a Royal Hideaway Hotel","$1,233 ",8.8,Excellent,7,"2,026",,,,,,,Standard Deviation,1294.103672
+Bahia Principe Luxury Bouganville - Adults Only All Inclusive,"$1,722 ",8.7,Excellent,7,281,,,,,,,Sample Variance,1674704.313
+Jewel Punta Cana All-Inclusive Resort,"$1,097 ",8.7,Excellent,7,219,,,,,,,Kurtosis,-0.253906134
+Impressive Premium Punta Cana - All Inclusive,"$1,490 ",8.7,Excellent,7,452,,,,,,,Skewness,0.786522859
+The Bannister Hotel & Yacht Club by Mint,"$1,126 ",8.7,Excellent,7,325,,,,,,,Range,5296
+AC Hotel by Marriott Punta Cana,$945 ,8.7,Excellent,7,349,,,,,,,Minimum,186
+Secrets Royal Beach Punta Cana - Adults Only,"$4,509 ",8.7,Excellent,7,153,,,,,,,Maximum,5482
+AC Hotel by Marriott Punta Cana,$945 ,8.7,Excellent,7,349,,,,,,,Sum,214450
+Secrets Royal Beach Punta Cana - Adults Only,"$4,509 ",8.7,Excellent,7,153,,,,,,,Count,100
+Iberostar Grand Bavaro Hotel,"$4,385 ",8.7,Excellent,7,47,,,,,,,Largest(1),5482
+Bahia Principe Grand La Romana - All Inclusive,"$1,387 ",8.5,Very Good,6,412,,,,,,,Smallest(1),186
+Dreams Dominicus La Romana Resort & Spa,"$2,610 ",8.5,Very Good,6,455,,,,,,,Confidence Level(95.0%),256.7782443
+Casa de Campo Resort & Villas,"$5,482 ",8.5,Very Good,6,374,,,,,,,,
+"Lopesan Costa Bávaro Resort, Spa & Casino","$3,510 ",8.5,Very Good,6,949,,,,,,,,
+Dreams Royal Beach Punta Cana,"$3,132 ",8.5,Very Good,6,106,,,,,,,,
+Dreams Royal Beach Punta Cana,"$3,132 ",8.5,Very Good,6,106,,,,,,,,
+Las Olas by Destinos1a,"$1,170 ",8.5,Very Good,6,117,,,,,,,,
+Impressive Punta Cana - All Inclusive,"$1,210 ",8.4,Very Good,6,"2,959",,,,,,,,
+Caribe Deluxe Princess - All Inclusive,"$1,944 ",8.4,Very Good,6,"2,357",,,,,,,,
+Catalonia Royal La Romana Adults Only - All Inclusive,"$2,520 ",8.4,Very Good,6,"1,435",,,,,,,,
+Serenade Punta Cana Beach & Spa Resort,"$2,300 ",8.4,Very Good,6,"2,158",,,,,,,,
+Princess Family Club Bavaro - All Inclusive,"$2,765 ",8.4,Very Good,6,681,,,,,,,,
+Hodelpa Nicolás de Ovando,"$1,555 ",8.4,Very Good,6,714,,,,,,,,
+TROPICANA SUITES DELUXE BEACH CLUB & POOL - playa LOS CORALES,$567 ,8.4,Very Good,6,25,,,,,,,,
+Dreams Macao Beach Punta Cana,"$3,429 ",8.4,Very Good,6,386,,,,,,,,
+Watermark Luxury Oceanfront Residences,"$1,935 ",8.4,Very Good,6,38,,,,,,,,
+Grand Bavaro Princess - All Inclusive,"$2,234 ",8.3,Very Good,6,"8,834",,,,,,,,
+Tropical Deluxe Princess - All Inclusive,"$1,944 ",8.3,Very Good,6,"1,070",,,,,,,,
+Bahia Principe Grand El Portillo - All Inclusive,"$1,553 ",8.3,Very Good,6,822,,,,,,,,
+TRS Cap Cana Waterfront & Marina Hotel - Adults Only,"$3,315 ",8.3,Very Good,6,562,,,,,,,,
+Barceló Bávaro Beach - Adults Only All Inclusive,"$1,627 ",8.3,Very Good,6,900,,,,,,,,
+DELUXE VILLAS BAVARO BEACH & SPA - best price for long term vacation rental,$683 ,8.3,Very Good,6,67,,,,,,,,
+"VACATION SUITES with ROOFTOP POOL, BEACH CLUB, SPA, RESTAURANTS - Ducassi Collection - Playa Los Corales",$475 ,8.3,Very Good,6,23,,,,,,,,
+Catalonia Royal Bavaro - All Inclusive - Adults Only,"$1,561 ",8.2,Very Good,6,"3,286",,,,,,,,
+Majestic Colonial Punta Cana - All Inclusive,"$2,274 ",8.2,Very Good,6,"2,117",,,,,,,,
+Punta Cana Princess Adults Only - All Inclusive,"$2,004 ",8.2,Very Good,6,"1,271",,,,,,,,
+"Margaritaville Island Reserve Cap Cana Hammock - Adults-Only, A Karisma Island Reserve Inclusive Resort","$3,510 ",8.2,Very Good,6,83,,,,,,,,
+"Royalton Bavaro, An Autograph Collection All-Inclusive Resort & Casino","$2,884 ",8.2,Very Good,6,"1,235",,,,,,,,
+Iberostar Selection Bavaro Suites,"$2,094 ",8.2,Very Good,6,113,,,,,,,,
+Iberostar Selection Hacienda Dominicus,"$2,822 ",8.2,Very Good,6,61,,,,,,,,
+Viva V Samana by Wyndham- Adults Only - All Inclusive,"$1,683 ",8.1,Very Good,6,"1,698",,,,,,,,
+Catalonia Santo Domingo,$986 ,8.1,Very Good,6,"3,697",,,,,,,,
+Barcelo Santo Domingo,$692 ,8,Very Good,6,"1,822",,,,,,,,
+AVENTURA VILLAGE LOS CORALES BEACH and SPA,$794 ,8,Very Good,6,186,,,,,,,,
+Ocean el Faro Resort - All Inclusive,"$2,241 ",8,Very Good,6,475,,,,,,,,
+Riu Republica - Adults Only - All Inclusive,"$1,887 ",8,Very Good,6,"1,487",,,,,,,,
+Sheraton Santo Domingo,"$1,341 ",8,Very Good,6,448,,,,,,,,
+NEW OPENING! Temptation Miches Resort - All Inclusive -Adults Only,"$3,645 ",8,Very Good,6,90,,,,,,,,
+Sheraton Santo Domingo,"$1,341 ",8,Very Good,6,448,,,,,,,,
+NEW OPENING! Temptation Miches Resort - All Inclusive -Adults Only,"$3,645 ",8,Very Good,6,90,,,,,,,,
+Barceló Bávaro Palace All Inclusive,"$2,397 ",8,Very Good,6,"2,286",,,,,,,,
+Iberostar Costa Dorada,"$1,310 ",7.9,Good,5,364,,,,,,,,
+"Xeliter Vista Mare, Samana",$877 ,7.9,Good,5,195,,,,,,,,
+DUCASSI SUITES ROOFTOP POOL - BEACH CLUB and SPA,$594 ,7.9,Good,5,69,,,,,,,,
+Grand Sirenis Punta Cana Resort & Aquagames - All Inclusive,"$1,643 ",7.9,Good,5,978,,,,,,,,
+GRAND CARIBE BEACH CLUB and SPA - PLAYA LOS CORALES,$468 ,7.8,Good,5,88,,,,,,,,
+DOMINICAN BREATH - suites SOL CARIBE - SWIMMING POOL and BEACH CLUB - playa BAVARO,$468 ,7.8,Good,5,91,,,,,,,,
+"Royalton CHIC Punta Cana, An Autograph Collection All-Inclusive Resort & Casino, Adults Only","$3,830 ",7.8,Good,5,250,,,,,,,,
+Hard Rock Hotel & Casino Punta Cana - All Inclusive,"$3,832 ",7.7,Good,5,"1,551",,,,,,,,
+Catalonia Punta Cana - All Inclusive,"$1,525 ",7.7,Good,5,"5,903",,,,,,,,
+"SOL CARIBE SUITES - PLAYA LOS CORALES - beach club, wifi, swimming pool",$500 ,7.7,Good,5,32,,,,,,,,
+Grand Palladium Punta Cana Resort & Spa - All Inclusive,"$2,245 ",7.7,Good,5,593,,,,,,,,
+Meliá Caribe Beach Resort-All Inclusive,"$2,655 ",7.7,Good,5,"1,199",,,,,,,,
+Grand Palladium Palace Resort Spa & Casino - All Inclusive,"$2,460 ",7.7,Good,5,274,,,,,,,,
+"LOS CORALES VILLAS and SUITES - BEACH CLUB, SPA, RESTAURANTS",$743 ,7.7,Good,5,73,,,,,,,,
+Los Corales Beach VILLAS & APARTMENTS,$840 ,7.7,Good,5,15,,,,,,,,
+Meliá Punta Cana Beach Wellness Inclusive - Adults only,"$2,291 ",7.7,Good,5,749,,,,,,,,
+Nickelodeon Hotels & Resorts Punta Cana - Gourmet All Inclusive by Karisma,"$3,420 ",7.6,Good,5,973,,,,,,,,
+Ocean Blue & Sand Beach Resort - All Inclusive,"$1,732 ",7.6,Good,5,676,,,,,,,,
+Grand Palladium Bavaro Suites Resort & Spa - All Inclusive,"$2,377 ",7.6,Good,5,351,,,,,,,,
+"Occidental Punta Cana - All Inclusive Resort - Barcelo Hotel Group ""Newly Renovated""","$1,215 ",7.5,Good,5,"3,106",,,,,,,,
+"Occidental Punta Cana - All Inclusive Resort - Barcelo Hotel Group ""Newly Renovated""","$1,215 ",7.5,Good,5,"3,106",,,,,,,,
+Dominican Fiesta Hotel & Casino,$679 ,7.4,Good,5,"2,779",,,,,,,,
+Glamour Hotel,$186 ,7.2,Good,5,155,,,,,,,,
+Be Live Collection Marien - All Inclusive,"$1,292 ",7.1,Good,5,"2,648",,,,,,,,
+Bahia Principe Grand Bavaro - All Inclusive,"$1,500 ",7.1,Good,5,"1,282",,,,,,,,
+Bahia Principe Grand Turquesa - All Inclusive,"$1,294 ",7,Good,5,26,,,,,,,,
+Playabachata Spa Resort,$948 ,6.6,Good,5,"1,619",,,,,,,,
